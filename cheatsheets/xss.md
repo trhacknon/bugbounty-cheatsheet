@@ -1,5 +1,6 @@
 ## XSS
 
+
 **Chrome XSS-Auditor Bypass** by [@vivekchsm](https://twitter.com/vivekchsm)
 
 ```html
